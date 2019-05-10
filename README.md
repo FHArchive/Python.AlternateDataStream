@@ -1,8 +1,8 @@
 
 <p float="left">
 <img src="https://img.shields.io/github/languages/top/fredhappyface/python.alternatedatastream.svg?style=flat-square" alt="Github top language">
-<img src="https://img.shields.io/codacy/grade/:codacy-proj-id:.svg?style=flat-square" alt="Codacy grade">
-<img src="https://img.shields.io/codacy/coverage/:codacy-proj-id:.svg?style=flat-square" alt="Codacy coverage">
+<img src="https://img.shields.io/codacy/grade/d64722acea3d496cb24a6c27f5067c30.svg?style=flat-square" alt="Codacy grade">
+<img src="https://img.shields.io/codacy/coverage/d64722acea3d496cb24a6c27f5067c30.svg?style=flat-square" alt="Codacy coverage">
 <img src="https://img.shields.io/github/repo-size/fredhappyface/python.alternatedatastream.svg?style=flat-square" alt="Repository size">
 <img src="https://img.shields.io/github/issues/fredhappyface/python.alternatedatastream.svg?style=flat-square" alt="Issues">
 <img src="https://img.shields.io/github/license/fredhappyface/python.alternatedatastream.svg?style=flat-square" alt="License">
@@ -13,8 +13,6 @@
 
 # Python.AlternateDataStream
 
-
-<img src="readme-assets/icons/proj-icon.png" alt="Project Icon" width="100">
 
 Uses a stripped down version of 
 https://github.com/RobinDavid/pyADS/blob/master/pyads.py to list files and 
@@ -72,7 +70,7 @@ Copyright (c) Robin David
 <!--
 TODO: Add screenshots to readme-assets/screenshots/desktop/ named 
 screenshot-[number].png
--->
+
 ## Screenshots 
 
 ### Desktop 
@@ -81,7 +79,7 @@ screenshot-[number].png
 |<img src="readme-assets/screenshots/desktop/screenshot-1.png" alt="Screenshot 1" width="600">|
 |<img src="readme-assets/screenshots/desktop/screenshot-2.png" alt="Screenshot 2" width="600">|
 |<img src="readme-assets/screenshots/desktop/screenshot-3.png" alt="Screenshot 3" width="600">| 
-
+-->
 
 
 ## Limited Support
