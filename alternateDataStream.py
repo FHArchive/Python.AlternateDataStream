@@ -34,7 +34,7 @@ class LARGE_INTEGER(Union):
         ("large2", LARGE_INTEGER_UNION),
         ("QuadPart",    LONGLONG),
     ]
-   
+
 class WIN32_FIND_STREAM_DATA(Structure):
     _fields_ = [
         ("StreamSize", LARGE_INTEGER),
@@ -71,7 +71,7 @@ class ADS():
     def has_streams(self):
         return len(self.streams) > 0
 
-# Only read files in directory 
+# Only read files in directory
 #files = [file for file in os.listdir(directory) if os.path.isfile(os.path.join(directory, file))]
 
 # Read everything in directory
