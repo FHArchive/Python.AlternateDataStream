@@ -65,29 +65,3 @@ version.
 MIT License
 Copyright (c) Robin David 
 (See the [LICENSE](/LICENSE.md) for more information.)
-
-
-<!--
-TODO: Add screenshots to readme-assets/screenshots/desktop/ named 
-screenshot-[number].png
-
-## Screenshots 
-
-### Desktop 
-|Screenshots                                                                                  |
-|:-:                                                                                          |
-|<img src="readme-assets/screenshots/desktop/screenshot-1.png" alt="Screenshot 1" width="600">|
-|<img src="readme-assets/screenshots/desktop/screenshot-2.png" alt="Screenshot 2" width="600">|
-|<img src="readme-assets/screenshots/desktop/screenshot-3.png" alt="Screenshot 3" width="600">| 
--->
-
-
-## Limited Support
-Expect this project to be supported for approximately 6 months (for bug-fixes 
-only). Note that this is not guaranteed. Create an issue for bugs (as this 
-project is carried out in spare time, you may have to wait for a few days)
-
-<img src="readme-assets/support/partial.png" alt="Limited Support" width="600">
-
-
-
